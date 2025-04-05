@@ -1,0 +1,8 @@
+*.exe
+*.dcu
+*.~*
+__history/
+*.bak
+*.map
+*.log
+*.tds
