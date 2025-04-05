@@ -1,7 +1,6 @@
 # Prueba Técnica - Desarrollador Senior
 **Autor:** Jesús Alfredo Maza Sánchez
-
-**desarrollado en Delphi ver 11.3**
+**Desarrollado en:** Delphi ver 11.3**
 
 # Solicitudes
 - Consumo de API REST y Patrones de Diseño
